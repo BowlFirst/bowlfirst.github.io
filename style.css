@@ -1,0 +1,10 @@
+.box{
+    margin: 20% auto;
+    width:  400px;
+    height; 100px;
+    border: 1px;
+    background-color:   #FBD603;
+    font-family:    "Comic Sans MS", "Comic Sans";
+    font-size:  40px;
+    font-weight:    bold;
+}
